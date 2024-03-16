@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/Users/chenhanghang/work/baidu/personal-code/chenhanghang/ctr-predict/src/main.cpp': [{'sign_idx': 9500, 'line_nr': 58, 'content': '        ctr_model.reset(new ::ml::ctr::FmModel());'},],}}
+let l:bm_current_session = 'default'
